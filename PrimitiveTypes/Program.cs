@@ -42,6 +42,49 @@ Debug.Assert(precoDoProdutoComImpostoCobrado == 33);
 
 //Questão 4
 
+String stringValue = "Olá pessoal, espero que estejam bem";
+
+int contadoDeVogais = 0;
+
+foreach (char c in stringValue)
+{
+    if ("aeiouAEIOU".IndexOf((c)) >= 0)
+    {
+        contadoDeVogais++;
+    }
+}
+
+Debug.Assert(contadoDeVogais == 13);
+
+//Questão 5
+
+int numero = 325;
+
+bool numeroPar = numero % 2 == 0;
+
+Console.WriteLine("O numero é par? " + numeroPar);
+
+Debug.Assert(numeroPar == false);
+
+//Questão 6
+
+String palavras = "Frase invertida";
+
+String[] listaPalavras = palavras.Split(" ");
+
+Array.Reverse(listaPalavras);
+
+String palavraReversa = string.Join(" ", listaPalavras);
+
+Console.WriteLine("Frase reversa" + palavraReversa);
+
+Debug.Assert(palavraReversa == "invertida Frase");
+
+
+
+
+
+
 
 
 

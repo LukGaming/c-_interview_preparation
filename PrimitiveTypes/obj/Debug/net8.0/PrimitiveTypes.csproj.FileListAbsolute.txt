@@ -12,3 +12,4 @@ c:\Users\LukGaming\Desktop\csharp_interview_preparation\PrimitiveTypes\obj\Debug
 c:\Users\LukGaming\Desktop\csharp_interview_preparation\PrimitiveTypes\obj\Debug\net8.0\PrimitiveTypes.pdb
 C:\Users\LukGaming\Desktop\csharp_interview_preparation\PrimitiveTypes\obj\Debug\net8.0\PrimitiveTypes.genruntimeconfig.cache
 C:\Users\LukGaming\Desktop\csharp_interview_preparation\PrimitiveTypes\obj\Debug\net8.0\ref\PrimitiveTypes.dll
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\PrimitiveTypes\obj\Debug\net8.0\PrimitiveTypes.sourcelink.json
