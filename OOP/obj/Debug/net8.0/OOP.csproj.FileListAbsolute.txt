@@ -1,0 +1,15 @@
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\bin\Debug\net8.0\OOP.exe
+C:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\bin\Debug\net8.0\OOP.dll
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\bin\Debug\net8.0\OOP.pdb
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.sourcelink.json
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.dll
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\refint\OOP.dll
+c:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\LukGaming\Desktop\csharp_interview_preparation\OOP\obj\Debug\net8.0\ref\OOP.dll
